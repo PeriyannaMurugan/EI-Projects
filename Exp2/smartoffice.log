@@ -1,0 +1,30 @@
+Oct 02, 2025 4:27:41 PM smartoffice.office.Office configureRooms
+INFO: Configured 3 rooms.
+Oct 02, 2025 4:27:41 PM smartoffice.occupancy.OccupancySensor update
+INFO: Room 1 is now occupied by 2 persons. AC and lights turned on.
+Oct 02, 2025 4:27:41 PM smartoffice.command.AddOccupantCommand execute
+INFO: Added 2 occupants to Room 1
+Oct 02, 2025 4:27:41 PM smartoffice.command.BlockRoomCommand execute
+INFO: Room 1 booked from 09:00 for 60 minutes.
+Oct 02, 2025 4:27:41 PM smartoffice.command.CancelRoomCommand execute
+INFO: Booking cancelled for Room 1
+Oct 02, 2025 4:27:41 PM smartoffice.occupancy.OccupancySensor update
+INFO: Room 1 is now unoccupied. AC and lights turned off.
+Oct 02, 2025 4:27:41 PM smartoffice.command.AddOccupantCommand execute
+INFO: Added 0 occupants to Room 1
+Oct 02, 2025 4:27:41 PM smartoffice.command.AddOccupantCommand execute
+WARNING: AddOccupant failed: Room 4 does not exist.
+Oct 02, 2025 4:27:41 PM smartoffice.command.BlockRoomCommand execute
+SEVERE: BlockRoomCommand failed: For input string: "A"
+Oct 02, 2025 4:27:41 PM smartoffice.command.StatusRoomCommand execute
+INFO: Checked status for Room 1
+Oct 02, 2025 4:27:41 PM smartoffice.command.BlockRoomCommand execute
+INFO: Room 1 booked from 09:00 for 60 minutes.
+Oct 02, 2025 4:27:41 PM smartoffice.command.BlockRoomCommand execute
+WARNING: Attempted booking failed: Room 1 already booked.
+Oct 02, 2025 4:27:41 PM smartoffice.command.CancelRoomCommand execute
+WARNING: CancelRoom failed: Room 2 not booked.
+Oct 02, 2025 4:27:41 PM smartoffice.occupancy.OccupancySensor update
+INFO: Room 2 occupancy insufficient to mark as occupied.
+Oct 02, 2025 4:27:41 PM smartoffice.command.AddOccupantCommand execute
+INFO: Added 1 occupants to Room 2
