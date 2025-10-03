@@ -90,11 +90,7 @@ java structural.adapter.Main
 
 ## Output
 
-
-
-```
 ![Example Output](image.png)
-```
 
 ---
 
