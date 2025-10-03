@@ -1,5 +1,3 @@
-Sure! Here’s a **formal, concise README** for your Adapter Pattern media player project. I’ve left a placeholder for the output screenshot.
-
 ---
 
 # Media Player with Adapter Pattern
@@ -95,7 +93,7 @@ java structural.adapter.Main
 
 
 ```
-[![Example Output](image.png)]
+![Example Output](image.png)
 ```
 
 ---
