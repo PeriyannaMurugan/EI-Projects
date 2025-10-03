@@ -1,4 +1,3 @@
-Here’s a clean, **formal short README** content you can use for the **Factory Payment Integration** project:
 
 ---
 
