@@ -1,4 +1,4 @@
----
+
 
 # Media Player with Adapter Pattern
 
@@ -12,7 +12,7 @@ This project demonstrates the **Adapter Design Pattern** in Java through a **med
 
 The Adapter Pattern allows adding new media types without modifying existing code, following the **Open/Closed Principle**.
 
----
+
 
 ## Features
 
